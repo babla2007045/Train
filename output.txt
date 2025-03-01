@@ -1,0 +1,22 @@
+
+===================================== Summary ======================================
+
+Execution Time: 2025-03-01 07:19:44 AM
+Journey Date: 01-Mar-2025
+Total Routes: 3
+Routes with seats: 0
+Routes without seats: 0
+No train routes: 3
+Total Time: 9.51s
+
+====================================================================================
+Error processing Khulna-Jashore: [Errno 8] Exec format error: '/data/data/com.termux/files/home/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver'
+====================================================================================
+Error processing Daulatpur-Jashore: [Errno 8] Exec format error: '/data/data/com.termux/files/home/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver'
+====================================================================================
+Error processing Noapara-Jashore: [Errno 8] Exec format error: '/data/data/com.termux/files/home/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver'
+
+
+====================================================================================
+|| ~~~~~~~~~~~~~~~~~~~~~~~~ ||   Finished Execution   || ~~~~~~~~~~~~~~~~~~~~~~~~ ||
+====================================================================================
